@@ -35,3 +35,12 @@ Rough log of experiments and ideas, starting with bullet-points
 -- Policy Analysis
 -- Legal Analysis
 --- ex: crawling Lexis to identify workable arguments, precedents, etc.
+
+Different memory levers for ChatGPT
+- Long-term memory
+- 4000 Token Context
+- Uploaded documents
+- Customization preferences
+- Project docs
+- RAG
+- "Partner" agents
