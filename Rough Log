@@ -36,6 +36,14 @@ Rough log of experiments and ideas, starting with bullet-points
 -- Legal Analysis
 --- ex: crawling Lexis to identify workable arguments, precedents, etc.
 - Context distallation
+- Teammates and Fluid Roles
+-- Scribe
+-- Muse
+-- Critic
+-- Director
+-- Archivist
+-- Researcher
+-- Collaborators
 Different memory levers for ChatGPT
 - Long-term memory
 - 4000 Token Context
@@ -44,3 +52,4 @@ Different memory levers for ChatGPT
 - Project docs
 - RAG
 - "Partner" agents
+- Draft your prompts elsewhere to avoid losing things to login, refresh, unintentional submission, etc
